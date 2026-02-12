@@ -2,6 +2,8 @@
 
 A clean and professional Typst template designed for assignments and reports at the National Technical University of Athens (NTUA).
 
+<img width="717" height="1011" alt="image" src="https://github.com/user-attachments/assets/1b25b63d-72f6-4f32-85b1-8ce025db8fee" />
+
 ## Features
 
 - **Custom Title Page**: Includes university logo, institute details, course/assignment title, and a team members table.
