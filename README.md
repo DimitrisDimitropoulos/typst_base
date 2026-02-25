@@ -71,3 +71,9 @@ typst watch main.typ
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+
+Disclaimer regarding the NTUA Logo: > The NTUA logo included in this template
+is the intellectual property of the National Technical University of Athens. It
+is not covered by the open-source license of this repository and is included
+solely for academic formatting purposes. If you use this template, please
+ensure you comply with the university's guidelines for logo usage.
