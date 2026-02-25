@@ -129,3 +129,17 @@
 
   body
 }
+
+
+// Helper function to format code blocks consistently
+// Use read() to load the content directly from the file
+// Ensure the .py files are in the same folder as this .typ file
+#let code-attachment(title, filename) = {
+  block(breakable: true)[
+    == #title
+    #text(style: "italic", size: 10pt)[Αρχείο: #raw(filename)]
+    #v(0.5em)
+    #raw(read(filename), lang: "python", block: true)
+  ]
+  v(0.5cm)
+}
